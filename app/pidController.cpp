@@ -112,5 +112,5 @@ bool PidController::checkParameters() {
         std::cout << "Target State." << std::endl;
         return false;
     }
-    return true;  // returns true if all parameters are present and positive
+    return true;  // returns true  if all parameters are present and positive
 }
