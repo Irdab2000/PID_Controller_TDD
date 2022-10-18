@@ -1,6 +1,6 @@
 # PID Controller 
-[![Build Status](https://github.com/Irdab2000/PID_Controller_TDD/actions/workflows/build_and_coveralls.yml/badge.svg)](https://github.com/Irdab2000/PID_Controller_TDD/actions/workflows/build_and_coveralls.yml)
-[![Coverage Status](https://coveralls.io/repos/github/Irdab2000/PID_Controller_TDD/badge.svg?branch=master)](https://coveralls.io/github/Irdab2000/PID_Controller_TDD?branch=master
+[![Build Status](https://github.com/Irdab2000/PID_Controller_TDD/actions/workflows/build_and_coveralls.yml/badge.svg)](https://github.com/TommyChangUMD/cpp-boilerplate/actions/workflows/build_and_coveralls.yml)
+[![Coverage Status](https://coveralls.io/repos/github/Irdab2000/PID_Controller_TDD/badge.svg?branch=master)](https://coveralls.io/github/TommyChangUMD/cpp-boilerplate?branch=master
 
 ---
 
