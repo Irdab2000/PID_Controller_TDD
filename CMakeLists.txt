@@ -9,8 +9,6 @@ option(COVERAGE "Generate Coverage Data" OFF)
 
 if (COVERAGE)
     include(CodeCoverage)
-    set(LCOV_REMOVE_EXTRA "'vendor/*'")
-    set(LCOV_REMOVE_EXTRA "'vendor/*'")
     set(LCOV_REMOVE_EXTRA "'*vendor/*'")
     setup_target_for_coverage(code_coverage test/cpp-test coverage)
     set(COVERAGE_SRCS app/main.cpp app/pidController.cpp include/pidController.hpp)
